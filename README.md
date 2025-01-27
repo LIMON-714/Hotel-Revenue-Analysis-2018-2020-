@@ -1,7 +1,7 @@
-## Repository: `hotel-revenue-analysis`
+# Repository: `hotel-revenue-analysis`
 
 This repository contains a data analysis project that calculates hotel revenues for the years 2018, 2019, and 2020. The project uses the ETL process to manage data and Power BI for visualization, providing key insights into revenue trends, average discounts, and more.
----
+
 
 ## Project Overview
 
@@ -36,7 +36,7 @@ The primary objective of this project is to:
    LEFT JOIN dbo.Meal_cost
    ON Meal_cost.meal = hotels.meal# Hotel-Revenue-Analysis-2018-2020-
    
-# Power BI Visualization
+## Power BI Visualization
  -Total revenue over 2018, 2019, and 2020
  -Revenue trends and average discount percentage.
  -Revenue by country and hotel category.
